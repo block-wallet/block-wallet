@@ -9,7 +9,7 @@ Each time you want to make a withdrawal, Blank will create a new wallet address 
 
 :point_right: Introduction — https://blankwallet.medium.com/go-blank-with-blank-94064e07e693
 
-:scroll: Whitepaper — https://blank-wallet.github.io/extension-whitepaper/book/overview/overview.html
+:scroll: Whitepaper — https://blank-wallet.github.io/extension-whitepaper/book/overview/overview.html [outdated]
 
 Links:
 Website: https://goblank.io/
