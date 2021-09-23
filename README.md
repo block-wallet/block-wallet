@@ -16,6 +16,8 @@ Website: https://goblank.io/
 
 Github: https://github.com/Blank-Wallet/
 
+Audits: https://github.com/Blank-Wallet/Blank-Wallet/tree/main/audits
+
 Medium: https://blankwallet.medium.com/ 
 
 Twitter: https://twitter.com/BlankWallet
