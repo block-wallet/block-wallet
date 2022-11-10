@@ -1,25 +1,29 @@
-# BlockWallet
+<p align="center">
+  <a href="https://blockwallet.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/11839151/188500975-8cd95d07-c419-48aa-bb85-4200a6526f68.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://blockwallet.io/static/images/logo-blockwallet-black.svg" />
+      <img src="[https://blockwallet.io/static/images/logo-medium.svg](https://user-images.githubusercontent.com/11839151/188500975-8cd95d07-c419-48aa-bb85-4200a6526f68.svg)" width="300" />
+    </picture>
+  </a>
+</p>
+<hr/>
 
 BlockWallet is the most private, non-custodial Ethereum browser wallet.
 
-BlockWallet uses smart contracts that allow users to hide the amounts and origins of cryptocurrency held, in a decentralized and frictionless manner.
-
-Each time you want to make a withdrawal, BlockWallet will create a new wallet address for you with the amount of crypto that you requested, which originates from the smart contract where everyone’s funds are pooled.
-
-
-:point_right: Introduction — https://blockwallet.medium.com/go-blank-with-blank-94064e07e693
 
 Links:
-Website: https://blockwallet.io/
 
-Github: https://github.com/Block-Wallet/
+- Website: https://blockwallet.io/
 
-Audits: https://github.com/Block-Wallet/Block-Wallet/tree/main/audits
+- Github: https://github.com/Block-Wallet/
 
-Medium: https://blockwallet.medium.com/ 
+- Audits: https://github.com/Block-Wallet/Block-Wallet/tree/main/audits
 
-Twitter: https://twitter.com/BlockWallet
+- Medium: https://blockwallet.medium.com/ 
 
-Telegram Discussion: https://t.me/blockwallet 
+- Twitter: https://twitter.com/BlockWallet
 
-Linkedin: https://www.linkedin.com/company/block-wallet
+- Telegram Discussion: https://t.me/blockwallet 
+
+- Linkedin: https://www.linkedin.com/company/block-wallet
